@@ -1,2 +1,2 @@
-# photo-gallery-server
+# photo-gallery-backend-server
 
